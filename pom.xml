@@ -6,6 +6,10 @@
         <module>spring-cloud-nacos-provider</module>
         <module>spring-cloud-dubbo</module>
         <module>spring-cloud-dubbo-comsumer</module>
+        <module>spring-cloud-dubbo1-provider</module>
+        <module>spring-cloud-dubbo1-api</module>
+        <module>spring-cloud-dubbo1-comsumer</module>
+        <module>spring-cloud-dubbo1-provider1</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
